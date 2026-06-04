@@ -1,0 +1,3 @@
+display_name: Codex Session Mover
+short_description: Move Codex conversation history between local project folders.
+default_prompt: Audit Codex sessions for the old and new project folders, then safely move the selected conversation history after backing up local Codex state.
