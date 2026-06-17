@@ -9,8 +9,8 @@ Move Codex Desktop / CLI conversation history from one local project directory t
 <br>
 
 <p>
-  <img src="https://img.shields.io/badge/Codex-Skill-2563eb?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Version-v1.1.0-14b8a6?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-Skill-2563eb?style=flat" />
+  <img src="https://img.shields.io/badge/Version-v1.1.0-14b8a6?style=flat" />
   <img src="https://img.shields.io/badge/Focus-Session%20Migration-7c3aed?style=flat" />
 </p>
 
