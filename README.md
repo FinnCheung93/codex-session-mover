@@ -8,11 +8,7 @@ Move Codex Desktop / CLI conversation history from one local project directory t
 
 <br>
 
-<p>
-  <img src="https://img.shields.io/static/v1?label=Codex&message=Skill&color=2563eb&style=flat" />
-  <img src="https://img.shields.io/static/v1?label=Version&message=v1.1.0&color=14b8a6&style=flat" />
-  <img src="https://img.shields.io/static/v1?label=Focus&message=Session%20Migration&color=7c3aed&style=flat" />
-</p>
+<p><kbd>Codex Skill</kbd> <kbd>Version v1.1.0</kbd> <kbd>Focus Session Migration</kbd></p>
 
 </div>
 
